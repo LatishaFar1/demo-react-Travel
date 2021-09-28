@@ -1,0 +1,19 @@
+{
+  "Destinations": [
+    {
+      "id": 1,
+      "location": "Iceland",
+      "img_url": "https://lp-cms-production.imgix.net/2019-06/801a747732c64789943cf29515266bf3-iceland.jpeg"
+    },
+    {
+      "id": 2,
+      "location": "Fiji",
+      "img_url": "https://cdn.cnn.com/cnnnext/dam/assets/201027043955-07-travel-bubble-fiji-private-jet-restricted-super-169.jpg"
+    },
+    {
+      "location": "Brazil",
+      "imgURL": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnJhemlsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      "id": 3
+    }
+  ]
+}

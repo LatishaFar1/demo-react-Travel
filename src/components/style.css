@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+.title {
+  font-family: Bebas Neue;
+  font-size: 80px;
+}
+
+/* Nav */
+nav {
+  width: 100%;
+}
+
+.nav-box {
+  background-color: black;
+}
+
+nav a {
+  text-decoration: none;
+  color: aquamarine;
+  font-weight: 800;
+  text-transform: lowercase;
+  font-size: 18px;
+  margin: 0 10px;
+}
+
+/* Home  */
+
+.home-desc-box {
+  border-color: aquamarine;
+  border-style: solid;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 50px 20px;
+  box-sizing: border-box;
+  width: 300px;
+  height: 100vh;
+  background-color: black;
+  color: aquamarine;
+  font-family: Poppins;
+  text-transform: lowercase;
+  bottom: -300px;
+}
+
+.home-img {
+  margin: 190px;
+  padding: 90px;
+  position: relative;
+  top: -575px;
+}
+
+.home-img2 {
+  height: 765px;
+  border-color: aquamarine;
+  border-style: solid;
+}
+
+/* About */
+
+.about-info {
+  font-family: Poppins;
+  text-align: center;
+  font-size: 25px;
+}
+
+.img-footer {
+  padding: 20px;
+}
+
+/* Travel Form */
+.dest-label {
+  font-weight: bold;
+  font-family: Bebas Neue;
+}
+/* 
+Destinations */
+.button {
+  color: aquamarine;
+  background-color: black;
+  font-size: 20px;
+  font-family: Bebas Neue;
+  border-radius: 5px;
+}
+
+.side-travelform {
+  display: flex;
+  justify-content: start;
+  margin-left: 2rem;
+}
+
+.side-travelform-inner {
+  background-color: floralwhite;
+}
+
+.Main-Destinations{
+  /* text-align: center;
+grid-template-columns: 1fr 1fr 1fr;
+justify-content: center; */
+}
+
+/* Dest Card */
